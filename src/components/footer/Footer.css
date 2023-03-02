@@ -1,0 +1,120 @@
+/* 
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none; border: none;
+    text-transform: capitalize;
+    transition:all .2s linear;
+    }
+    
+    h1,h3{
+      font-family: 'Oswald', sans-serif
+    }
+    
+    *::selection{
+      background: #F7CA3E ;
+      color: #fff;
+    }
+    
+    html{
+      font-size: 62.5%;
+      overflow-x: hidden;
+    }
+    
+    body{
+      overflow-x: hidden;
+     
+    }
+    
+    
+    ::-webkit-scrollbar{
+      width: 1.4rem;
+      background: #666 !important;
+    }
+    
+    ::-webkit-scrollar-track{
+      color: #333 !important;
+    }
+    
+    
+    ::-webkit-scrollbar-thumb {
+        background: var(--yellow) !important;
+        border-radius: 12px;
+    }
+    
+    section{
+      min-height: 100vh;
+      padding: 1rem 10%;
+      padding-top: 8.5rem;
+    }
+.footer{
+    background: #282727;
+    padding: 1rem 7%;
+  }
+  
+  .footer .box-container{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .footer .box-container .box{
+    flex: 1 1 25rem;
+    margin: 2rem;
+  }
+  
+  .footer .box-container .box h3{
+    font-size: 2.5rem;
+    color: #fff;
+    padding: 1rem 0;
+    font-weight: normal;
+  }
+  
+  .footer .box-container .box p{
+    font-size: 1.7rem;
+    color: #eee;
+    padding: 1rem 0;
+  }
+  
+  .footer .box-container .box a{
+    font-size: 1.7rem;
+    color: #eee;
+    padding: 1rem 0;
+    display: block;
+  }
+  
+  .footer .box-container .box a:hover{
+    color: #33ff33;
+    font-style: calibri;
+  }
+  
+  .footer .box-container .box p i{
+    padding-right: .5rem;
+    color: #33ff33;
+  }
+  
+  .footer .credit{
+    font-size: 2rem;
+    text-align: center;
+    border-top: .2rem solid rgba(255,255,255,.7);
+    padding: 2rem 1rem;
+    font-weight: normal;
+    letter-spacing: .1rem;
+    color: #fff;
+  }
+  
+  .footer .credit a{
+    color: #33ff33;
+  }@media (max-width:500px) {
+    html{
+      font-size: 50%;
+    }
+  
+    section{
+      padding: 1rem 5%;
+      padding-top: 8.5rem;
+    }
+  
+  
+  } */
